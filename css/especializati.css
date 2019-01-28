@@ -1,0 +1,79 @@
+.logo-img{max-width: 130px;margin: 10px;}
+.topo-titulo{
+    background-color: #1C8CCA;
+}
+.titulo-ebook{
+    color: #FFF;
+    font-size: 32px;
+    margin: 60px;
+}
+.img-ebook{max-width: 250px;margin: 26px 0px;}
+.oculta{font-size: 0px; margin: 0px; padding: 0px;}
+section.form{
+    background: #F3F3F3;
+    /* padding: 10px; */
+    border-radius: 10px;
+}
+.titulo-download-ebook{
+    background: #1C8CCA;
+    padding: 8px;
+    text-align: center;
+    color: #FFF;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+form.form-download{
+    padding: 20px 5px;
+}
+form.form-download input{
+    border-radius: 0px !important;
+    padding: 14px;
+    font-size: 16px;
+    height: 60px;
+    color: #1C8CCA;
+}
+.btn-download{
+    background: #F3B426;
+    border: 2px solid #CE981E;
+    color: #FFF !important;
+    width: 100%;
+    font-weight: bold;
+}
+
+.titulo-descricao{
+    font-size: 20px;
+}
+.descricao-ebook{
+    font-size: 12px;
+}
+
+
+.autor{
+    background: #F3F3F3;
+    margin-top: 70px;
+    padding: 20px;
+}
+.img-autor{
+    max-width: 200px;
+    border-radius: 100%;
+    border: 10px solid #CCC;
+}
+.nome-autor{
+    font-size: 24px;
+}
+.text-desc-autor{}
+
+.footer{
+    background: #5A5A5A;
+}
+
+.padding-20{
+    padding: 20px 0px;
+}
+
+.social a{
+    color: #FFF;
+    margin: 8px;
+    font-size: 14px;
+}
